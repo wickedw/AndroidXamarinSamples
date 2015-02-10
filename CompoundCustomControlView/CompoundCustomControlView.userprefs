@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="CompoundCustomControlView/CompoundCustomControlView.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_21_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompoundCustomControlView/MainActivity.cs">
+    <Files>
+      <File FileName="CompoundCustomControlView/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="CompoundCustomControlView/CustomControlView/CompoundCodeView.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Dropbox/Xamarin2/AndroidPrototypes/WTMDroid/WTMDroid.GUI/..\WTMDroid.Core\BL\Managers\TeamManager.cs" line="50" offsetX="326" offsetY="784" expression="filtered" liveUpdate="False" />
+    <Watch file="../../../Dropbox/Xamarin2/AndroidPrototypes/WTMDroid/WTMDroid.GUI/..\WTMDroid.Core\BL\Managers\TeamManager.cs" line="62" offsetX="487" offsetY="976" expression="containstr" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.CompoundCustomControlView MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
