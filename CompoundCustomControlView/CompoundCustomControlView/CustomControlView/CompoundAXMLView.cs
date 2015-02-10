@@ -37,7 +37,7 @@ namespace CompoundCustomControlView
 			b1.Text = "Button2";
 
 			// IMPORTANT: When we inflate, we add a nested LinearLayout inside our class level LinearLayout
-			// and therefore if we want to add anything inside it our LinearLayout we must reference it explicitly as follows
+			// and therefore if we want to add anything inside our LinearLayout we must reference it explicitly as follows
 			// Adding to the View via this.AddView will cause some confusion as our LinearLayout uses fill_parent and will take up the entire view
 			// making it appear our other controls do not exist!
 			var layout = FindViewById<LinearLayout> (Resource.Id.compoundaxmlview_outerlayout);
